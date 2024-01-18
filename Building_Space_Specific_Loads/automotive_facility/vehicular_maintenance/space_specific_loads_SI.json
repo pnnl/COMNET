@@ -1,0 +1,22 @@
+{
+    "electric_plug_load_density": {
+        "unit": "W/m2",
+        "value": 7.8975668663745
+    },
+    "lighting_power_density": {
+        "unit": "W/m2",
+        "value": 7.53473728
+    },
+    "occupant_density": {
+        "unit": "m2/person",
+        "value": 13.271862877745805
+    },
+    "outdoor_air_rate_rp": {
+        "unit": "L/s/person",
+        "value": 4.7194745
+    },
+    "outdoor_air_rate_ra": {
+        "unit": "L/s/m2",
+        "value": 0.9144000117555263
+    }
+}
